@@ -23,7 +23,7 @@
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acassiodev=dark&show_icons=true)
 
 ## Minhas Contribuições 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Acassiodev&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
